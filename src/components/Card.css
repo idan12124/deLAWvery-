@@ -1,0 +1,6 @@
+.Icon {
+  color: black;
+}
+.Icon:hover {
+  color: grey;
+}
